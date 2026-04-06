@@ -1,6 +1,7 @@
 streamlit
-face-recognition
 numpy
 pandas
+pillow
 opencv-python-headless
-Pillow
+face_recognition
+face_recognition_models
