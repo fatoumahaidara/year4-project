@@ -1,7 +1,0 @@
-streamlit
-numpy
-pandas
-pillow
-opencv-python-headless
-face_recognition
-face_recognition_models

@@ -1,0 +1,8 @@
+cmake
+dlib
+face-recognition
+streamlit
+numpy
+pandas
+opencv-python-headless
+Pillow
